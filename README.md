@@ -1,10 +1,3 @@
-# TypeScript - Nodejs - Reactjs boilerplate
+# BeMember
 
-## server
-
-- dotenv
-- nodemon
-
-## webapp
-
-- emotion
+Be our Member!
